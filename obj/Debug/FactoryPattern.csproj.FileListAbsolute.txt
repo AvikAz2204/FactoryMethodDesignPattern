@@ -1,0 +1,6 @@
+C:\Users\avikg\source\repos\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\avikg\source\repos\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\avikg\source\repos\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\avikg\source\repos\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\avikg\source\repos\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\avikg\source\repos\FactoryPattern\obj\Debug\FactoryPattern.pdb
